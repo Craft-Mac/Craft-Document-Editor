@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://saludjays1502.github.io/.github/craft">
+<a href="https://mayumemi0104.github.io/.github/craft">
 <img src="https://img.shields.io/badge/GET_CRAFT-darkgreen?style=for-the-badge&logo=apple" alt="GET CRAFT">
 </a>
 </div>
